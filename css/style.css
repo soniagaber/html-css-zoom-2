@@ -26,6 +26,17 @@
     background-color: orangered;
     background-image: url(../img/sddefault.jpg);
     background-size: contain;
+    position: relative;
+}
+
+.utente{
+    position: absolute;
+    bottom: 5px;
+    left: 0px;
+    background-color: black;
+    opacity: 0.4;
+    color: white;
+    font-size: bold;
 }
 
 #dash{
